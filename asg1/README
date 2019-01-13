@@ -1,0 +1,7 @@
+Ani Chaloyan
+CMPS 112 (2018 Fall)
+Assignment 1: Scheme Silly Basic Interpreter
+File Name: sbi.scm
+Description: The SB interpreter reads in an SBIR program from the file whose name is
+specified in the argument list, stores it in a list, and then interprets that intermediate representation. During interpretation, numbers are read from the
+standard input and results written to the standard output.
